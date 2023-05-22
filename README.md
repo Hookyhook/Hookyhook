@@ -1,17 +1,24 @@
-- 👋 Hi, I’m @Hookyhook
-- 👀 I’m interested in Aviation, Coding, Reading, Sports, Piano
-- 🌱 I’m currently learning Java
-C#,
-Web Development(HTML, CSS, Javascript),
-Back-End Development(SQL, Node.js, MariaDB, MySQL),
-Processing,
-Python (Grundlagen),
-Discord.js API,
-Capacitor.js,
-Unity Scripting API, 
-- 💞️ I’m looking to collaborate on interesting projects associated with AI, App Development etc.
+# 👋 hi, i’m @hookyhook
+- 👀 i’m intewested in aviation, coding, weading, spowts, piano
+-  i’m cuwwentwy weawning java,
+c#,
+web devewopment(htmw, css, javascwipt)(why no fwamewowk, uwu think uwu coow because no fwamewowk, but in weawity fwamewowk bussin),
+back-end devewopment( node.js, sqw(mawia db, postgwess, owacwe, sqwwite, mssqw(but nevew set owne up)),
+pwocessing,(cwinge if uwu dont wwith youw own wenewing wibawy)(btw which wanguage pwocessing?)
+python (basics),
+discowd.js api(thats an wwappew),
+capacitow.js,
+unity scwipting api(pwease juwst in the wove of god caww iwt an engine), 
+- 💞️ i’m wooking tuwu cowwabowate own intewesting pwojects associated with non bwoated, non ai, non gwaphqw, app devewopment etc.
+ 
+btw im sowwy tuwu infowm but i am stiww own windows, but i wawnt tuwu get my sins fowgiven awnd switch tuwu awch winux
 
 <!---
-Hookyhook/Hookyhook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hookyhook/hookyhook iws a ✨ speciaw ✨ wepositowy because its `weadme.md` (this fiwe) appeaws own youw github pwofiwe.
+ uwu cawn cwick the pweview wink tuwu take a wook at youw changes.
+ --->
+
+<!--
+  aww fun awnd games
+-->
+
