@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hookyhook
 - 👀 I’m interested in Aviation, Coding, Reading, Sports, Piano
 Web Development(HTML, CSS, Javascript),
-Back-End Development(SQL, Node.js, MariaDB, MySQL),
+Back-End Development(SQL, Node.js),
 - 💞️ I’m looking to collaborate on interesting projects associated with App Development etc.
 
 <!---
