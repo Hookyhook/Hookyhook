@@ -50,9 +50,6 @@ I'm Justus von Voß, a developer passionate about exploring diverse programming 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hookyhook&theme=dracula" alt="Trophies" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hookyhook&theme=default" alt="GitHub Streak" />
-</p>
 
 ## 📫 Let's Connect
 
